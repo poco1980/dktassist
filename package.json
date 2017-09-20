@@ -1,0 +1,9 @@
+{
+    "name": "dktassist",
+    "version": "0.0.1",
+    "description": "This is an app that will eventually rival Alexa and Home",
+    "dependencies": {},
+    "devDependencies": {
+        "electron": "1.7.6"
+    }
+}
